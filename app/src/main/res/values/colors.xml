@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="mettalic_black">#2C2C2C</color>
+    <color name="blackout">#1E1E1E</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#4CAF50</color>
+    <color name="red">#CF6679</color>
+    <color name="orange">#FF9800</color>
+    <color name="blue">#2196F3</color>
+    <color name="violet">#9C27B0</color>
+    <color name="gray">#607D8B</color>
+    <color name="lightgray">#878787</color>
+    <color name="darkgray">#363636</color>
+    <color name="turquoise">#03DAC5</color>
+</resources>

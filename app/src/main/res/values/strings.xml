@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">MoneyTracker</string>
+
+    <string name="cat_food">Mâncare</string>
+    <string name="cat_salary">Salariu</string>
+    <string name="cat_rent">Chirie</string>
+    <string name="cat_transport">Transport</string>
+    <string name="cat_distraction">Distracție</string>
+    <string name="cat_other">Altele</string>
+
+    <string name="btn_date_format">Data: %1$s</string>
+    <string name="btn_income">Venit</string>
+    <string name="btn_expense">Cheltuială</string>
+    <string name="btn_add">Adaugă Tranzacție</string>
+    <string name="btn_export">Exportă Backup</string>
+    <string name="btn_import">Importă Backup</string>
+
+    <string name="dialog_delete">Șterge</string>
+    <string name="dialog_delete_msg">Ești sigur că vrei să ștergi?</string>
+    <string name="dialog_btn_yes">Da</string>
+    <string name="dialog_btn_no">Nu</string>
+
+    <string name="hint_description">Descriere</string>
+    <string name="hint_sum">Sumă</string>
+
+    <string name="lbl_empty"></string>
+    <string name="lbl_plus_sign">+</string>
+    <string name="lbl_total_balance">Balanță totală</string>
+    <string name="lbl_balance">%.2f RON</string>
+    <string name="lbl_income">Venit: +%.2f</string>
+    <string name="lbl_expense">Cheltuieli: %.2f</string>
+    <string name="lbl_report">Rapoarte financiare</string>
+    <string name="lbl_distribution">Distribuție cheltuieli</string>
+    <string name="lbl_yearly_report">Raport anual</string>
+    <string name="lbl_monthly_report">Raport lunar (apasă pentru detalii)</string>
+    <string name="lbl_stats">Statistici</string>
+    <string name="lbl_this_month">Luna\nAsta</string>
+    <string name="lbl_total">Total: %s</string>
+    <string name="lbl_amount">%.2f</string>
+    <string name="lbl_income_expense">"Venit: +%.2f   Cheltuieli: %.2f"</string>
+    <string name="lbl_search_stats">Statistică pentru: \'%s\'</string>
+    <string name="lbl_monthly_balance">Balanța Lunii: %s</string>
+
+    <string name="msg_error_empty">Completează tot!</string>
+    <string name="msg_error_amount">Sumă incorectă!</string>
+    <string name="msg_error_no_transaction">Nicio tranzacție găsită.</string>
+    <string name="msg_error_import">Eroare la import!</string>
+    <string name="msg_error_export">Eroare la export!</string>
+    <string name="msg_import_success">Date importate!</string>
+    <string name="msg_export_success">Date exportate!</string>
+</resources>
